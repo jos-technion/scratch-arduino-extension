@@ -573,7 +573,7 @@
       ['r', 'map %n from %n %n to %n %n', 'mapValues', 50, 0, 100, -240, 240]
     ],
     ar: [
-      ['h', 'عندما يتصل الاردوينو', 'whenConnected'],
+      ['h', 'test arabic, 'whenConnected'],
       [' ', 'connect %m.hwOut to pin %n', 'connectHW', 'led A', 3],
       [' ', 'connect %m.hwIn to analog %n', 'connectHW', 'rotation knob', 0],
       ['-'],
